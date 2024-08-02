@@ -1,44 +1,31 @@
-# 👋 Hi, I'm Shivani Khandelwal
+<h1 align="center">Hi 👋, I'm Shivani Khandelwal</h1>
+<h3 align="center">A passionate Data Scientist with a love for uncovering hidden insights in data and transforming them into actionable strategies with my Industry and Research Experience.</h3>
 
-![Profile Views](https://komarev.com/ghpvc/?username=shivani-2001&label=Profile%20views&color=0e75b6&style=flat)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivani-2001&label=Profile%20views&color=0e75b6&style=flat" alt="shivani-2001" /> </p>
 
-## 🚀 About Me
-I am a Data Scientist passionate about uncovering insights in data and transforming them into actionable strategies. With a strong foundation in machine learning, deep learning, and data analytics, I am always eager to take on new challenges and contribute to impactful projects.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivani-2001" alt="shivani-2001" /></a> </p>
 
-- 🌱 I’m currently pursuing a Master's by Research in Computational Science and Artificial Intelligence at Coventry University.
-- 👯 I’m looking to collaborate on data science, machine learning, and AI projects.
-- 💬 Ask me about data science, Python, and machine learning.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/shivanikhandelwal2001) | [Email](mailto:shivanikhandelwal487@gmail.com)
+- 🔭 I’m currently working on **Smart HVAC Controller to Reduce Energy Consumption**
 
-## 🛠 Skills
-- **Languages:** Python, Java, C
-- **Data Analysis:** Numpy, Pandas, Matplotlib, Seaborn, Sklearn
-- **Machine Learning:** Regression, Classification, Clustering, Reinforcement Learning, Time-Series Analysis
-- **Deep Learning:** ANN, CNN, RNN, GAN
-- **Other:** SQL, Flask, TensorFlow, Computer Vision, NLP
+- 📝 I regularly write posts on Linkedin [https://www.linkedin.com/in/shivanikhandelwal2001/](https://www.linkedin.com/in/shivanikhandelwal2001/)
 
-## 🔧 Projects
-Here are a few projects I've worked on:
+- 💬 Ask me about **Python, Data Science, Machine Learning, Deep Learning**
 
-1. **[Intelligent Door Unlocking System](https://github.com/shivani-2001/Intelligent-Door-Unlocking-System)**
-   - Smart multi-modal unlocking system using various sensors.
+- 📫 How to reach me **shivanikhandelwal487@gmail.com**
 
-2. **[Gesture-Based Phone Unlocking](https://github.com/shivani-2001/Gesture_Auth_Encode_AI)**
-   - AI-based security layer for mobile devices using sensor data.
+- 📄 Know about my experiences [https://drive.google.com/file/d/19r39ySYHvMM5XOFnnNKfBmk09wgXW_jL/view?usp=drive_link](https://drive.google.com/file/d/19r39ySYHvMM5XOFnnNKfBmk09wgXW_jL/view?usp=drive_link)
 
-3. **[Video Summarization](https://github.com/shivani-2001/Video-summarization)**
-   - System for summarizing videos based on human activity.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/shivanikhandelwal2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivanikhandelwal2001" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@techshivanik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@techshivanik" height="30" width="40" /></a>
+</p>
 
-4. **[Image Captioning](https://github.com/shivani-2001/Image-Video-Captioning)**
-   - Image caption generator using encoder-decoder architecture.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-## 📊 GitHub Stats
-![Shivani's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivani-2001&show_icons=true&theme=radical)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivani-2001&show_icons=true&locale=en&layout=compact" alt="shivani-2001" /></p>
 
-## 🌟 Featured Repositories
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shivani-2001&repo=Intelligent-Door-Unlocking-System&theme=radical)](https://github.com/shivani-2001/Intelligent-Door-Unlocking-System)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shivani-2001&repo=Gesture_Auth_Encode_AI&theme=radical)](https://github.com/shivani-2001/Gesture_Auth_Encode_AI)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivani-2001&show_icons=true&locale=en" alt="shivani-2001" /></p>
 
-## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shivanikhandelwal2001)
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:shivanikhandelwal487@gmail.com)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivani-2001&" alt="shivani-2001" /></p>
