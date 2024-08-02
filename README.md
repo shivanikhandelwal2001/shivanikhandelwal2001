@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivani-2001&label=Profile%20views&color=0e75b6&style=flat" alt="shivani-2001" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivani-2001" alt="shivani-2001" /></a> </p>
+- 🔭 I’m currently working on **Smart HVAC Controller to Reduce Energy Consumption using Reinforcement Learning**
 
-- 🔭 I’m currently working on **Smart HVAC Controller to Reduce Energy Consumption**
+- 📝 Create and share content on technical topics, personal experiences, and career journeys on [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/shivanikhandelwal2001) [![YouTube]([https://img.shields.io/badge/YouTube-red?style=flat-square&logo=youtube](https://www.flaticon.com/free-icons/youtube))](https://www.youtube.com/@techshivanik)
 
-- 📝 I regularly write posts on Linkedin [https://www.linkedin.com/in/shivanikhandelwal2001/](https://www.linkedin.com/in/shivanikhandelwal2001/)
-
-- 💬 Ask me about **Python, Data Science, Machine Learning, Deep Learning**
+- 💬 Let's Discuss about **Python, Data Science, Machine Learning, and Deep Learning**
 
 - 📫 How to reach me **shivanikhandelwal487@gmail.com**
 
