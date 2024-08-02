@@ -1,6 +1,3 @@
-Sure! Based on your requirements and the examples provided, here is a concise and appealing GitHub profile README for you:
-
-```markdown
 # 👋 Hi, I'm Shivani Khandelwal
 
 ![Profile Views](https://komarev.com/ghpvc/?username=shivani-2001&label=Profile%20views&color=0e75b6&style=flat)
@@ -45,8 +42,3 @@ Here are a few projects I've worked on:
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shivanikhandelwal2001)
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:shivanikhandelwal487@gmail.com)
-
----
-
-Feel free to customize this further to reflect your personal style and any additional information you wish to include. Copy the above markdown code and paste it into a `README.md` file in your GitHub profile repository.
-```
