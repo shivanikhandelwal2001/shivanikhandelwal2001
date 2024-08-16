@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Smart HVAC Controller to Reduce Energy Consumption using Reinforcement Learning**
 
-- 📝 Create and share content on technical topics, personal experiences, and career journeys on [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/shivanikhandelwal2001) [![YouTube]([https://img.shields.io/badge/YouTube-red?style=flat-square&logo=youtube](https://www.flaticon.com/free-icons/youtube))](https://www.youtube.com/@techshivanik)
+- 📝 Create and share content on technical topics, personal experiences, and career journeys on [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/shivanikhandelwal2001) [![YouTube]([https://img.shields.io/badge/YouTube-red?style=flat-square&logo=youtube])](https://www.youtube.com/@techshivanik)
 
 - 💬 Let's Discuss about **Python, Data Science, Machine Learning, and Deep Learning**
 
