@@ -3,13 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivani-2001&label=Profile%20views&color=0e75b6&style=flat" alt="shivani-2001" /> </p>
 
-<h4>Here is about me.</h4>
+<h3>Here is about me.</h3>
 
-- 🔭 I’m currently working on **Smart Heating and Cooling Systems Controller to Reduce Energy Consumption using Reinforcement Learning**
+- 🔭 I am currently working on **Smart Heating and Cooling Systems Controller to Reduce Energy Consumption using Reinforcement Learning**
 
 - 📝 I love to create and share content on technical topics, personal experiences, and career journeys [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/shivanikhandelwal2001) [![YouTube](https://img.shields.io/badge/YouTube-red?style=flat-square&logo=youtube)](https://www.youtube.com/@techshivanik)
 
-- 💬 We can discuss about **Python, Data Science, Machine Learning, and Deep Learning** [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/shivanikhandelwal2001)
+- 💬 I would like to collaborate and discuss a range of topics, including **Python, Data Science, Machine Learning, and Deep Learning**.
+ [![Book a Call](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://techshivanik.setmore.com/shivanikhandelwal)
 
 - 📫 How to reach me **shivanikhandelwal487@gmail.com**
 
