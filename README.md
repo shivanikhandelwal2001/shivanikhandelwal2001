@@ -14,7 +14,7 @@
 
 - 📫 You can reach me here - **shivanikhandelwal487@gmail.com**
 
-- 📄 To know more about my Experiences and Skills [![Resume](https://drive.google.com/file/d/19r39ySYHvMM5XOFnnNKfBmk09wgXW_jL/view?usp=drive_link)]
+- 📄 To know more about my Experiences and Skills [[Resume](https://drive.google.com/file/d/19r39ySYHvMM5XOFnnNKfBmk09wgXW_jL/view?usp=drive_link)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
