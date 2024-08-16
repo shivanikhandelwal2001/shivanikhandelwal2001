@@ -12,9 +12,9 @@
 - 💬 I would like to collaborate and discuss a range of topics, including **Python, Data Science, Machine Learning, and Deep Learning**.
  [![Book a Call](schedule_3652191.png)](https://techshivanik.setmore.com/shivanikhandelwal)
 
-- 📫 How to reach me **shivanikhandelwal487@gmail.com**
+- 📫 You can reach me here - **shivanikhandelwal487@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/19r39ySYHvMM5XOFnnNKfBmk09wgXW_jL/view?usp=drive_link](https://drive.google.com/file/d/19r39ySYHvMM5XOFnnNKfBmk09wgXW_jL/view?usp=drive_link)
+- 📄 To know more about my Experiences and Skills [![Resume](https://drive.google.com/file/d/19r39ySYHvMM5XOFnnNKfBmk09wgXW_jL/view?usp=drive_link)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
