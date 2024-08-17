@@ -19,16 +19,16 @@
 <h3 align="left">Connect with me:</h3>
 <p align="center">
   <a href="https://linkedin.com/in/shivanikhandelwal2001">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=square&logo=linkedin" alt="LinkedIn" style="margin-right: 50px;" />
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=square&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="https://www.youtube.com/@techshivanik">
-    <img src="https://img.shields.io/badge/YouTube-red?style=square&logo=youtube" alt="YouTube" style="margin-right: 10px;" />
+    <img src="https://img.shields.io/badge/YouTube-red?style=square&logo=youtube" alt="YouTube" />
   </a>
   <a href="https://instagram.com/techshivanik">
-    <img src="https://img.shields.io/badge/Instagram-purple?style=square&logo=instagram" alt="Instagram" style="margin-right: 10px;" />
+    <img src="https://img.shields.io/badge/Instagram-purple?style=square&logo=instagram" alt="Instagram" />
   </a>
   <a href="https://shivani-khandelwal.com">
-    <img src="https://img.shields.io/badge/Portfolio-301934?style=square&logo=portfolio" alt="Portfolio" style="margin-right: 10px;" />
+    <img src="https://img.shields.io/badge/Portfolio-301934?style=square&logo=portfolio" alt="Portfolio" />
   </a>
 </p>
 
