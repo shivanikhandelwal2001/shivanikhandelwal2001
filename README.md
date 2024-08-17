@@ -19,7 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="center">
   <a href="https://linkedin.com/in/shivanikhandelwal2001">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=square&logo=linkedin" alt="LinkedIn" style="margin-right: 10px;" />
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=square&logo=linkedin" alt="LinkedIn" style="margin-right: 50px;" />
   </a>
   <a href="https://www.youtube.com/@techshivanik">
     <img src="https://img.shields.io/badge/YouTube-red?style=square&logo=youtube" alt="YouTube" style="margin-right: 10px;" />
