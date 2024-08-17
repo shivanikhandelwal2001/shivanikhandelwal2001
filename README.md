@@ -87,12 +87,12 @@
 
 <h3 align="left">📊 GitHub Stats</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shivani-2001&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api?username=shivani-2001&show_icons=true&locale=en" alt="GitHub Stats" width="400" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shivani-2001&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="400" height="500" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shivani-2001&show_icons=true&locale=en" alt="GitHub Stats" width="400" height="500" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivani-2001&" alt="GitHub Streak" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivani-2001&" alt="GitHub Streak" width="700" height="500" />
 </p>
 
