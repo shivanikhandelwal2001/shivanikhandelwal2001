@@ -5,15 +5,15 @@
 
 <h3>Here is about me.</h3>
 
-- 🔭 I am currently working on **Smart Heating and Cooling Systems Controller to Reduce Energy Consumption using Reinforcement Learning**
+- 🔭 I am currently working on **Smart Heating and Cooling Systems Controller** using **Reinforcement Learning** to reduce energy consumption and cost.
 
-- 📝 I love to create and share content on technical topics, personal experiences, and career journeys [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/shivanikhandelwal2001) [![YouTube](https://img.shields.io/badge/YouTube-red?style=flat-square&logo=youtube)](https://www.youtube.com/@techshivanik)
+- 📝 I enjoy creating and sharing content on technical topics, personal experiences, and career journeys. Check out my [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/shivanikhandelwal2001) [![YouTube](https://img.shields.io/badge/YouTube-red?style=flat-square&logo=youtube)](https://www.youtube.com/@techshivanik)
 
-- 📅 I would like to collaborate and discuss a range of topics, including **Python, Data Science, Machine Learning, and Deep Learning** [Book a Call](https://techshivanik.setmore.com/shivanikhandelwal)
+- 📅 I am open to collaborating and discussing various topics, including **Python**, **Data Science**, **Machine Learning**, and **Deep Learning** [Book a Call](https://techshivanik.setmore.com/shivanikhandelwal)
 
-- 📫 You can reach me here - **shivanikhandelwal487@gmail.com**
+- 📫 Feel free to reach out via email at **shivanikhandelwal487@gmail.com**
 
-- 📄 To know more about my Experiences and Skills, check out [My Resume](https://drive.google.com/file/d/19r39ySYHvMM5XOFnnNKfBmk09wgXW_jL/view?usp=drive_link)
+- 📄 To know more about my experiences and skills, view my [resume here](https://drive.google.com/file/d/19r39ySYHvMM5XOFnnNKfBmk09wgXW_jL/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
