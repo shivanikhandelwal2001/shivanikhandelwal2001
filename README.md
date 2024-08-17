@@ -85,13 +85,10 @@
 
 <br>
 
-<h3 align="center">📊 GitHub Stats</h3>
+<h3 align="left">📊 GitHub Stats</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shivani-2001&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="400" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shivani-2001&show_icons=true&locale=en" alt="GitHub Stats" width="400" />
 </p>
 
