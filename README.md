@@ -34,8 +34,8 @@
   </a>
 
   <!-- Portfolio -->
-  <a href="https://shivani-khandelwal.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-301934?style=square&logo=portfolio" alt="Portfolio" style="margin: 0 10px;" />
+  <a href="https://shivani-khandelwal.com">
+    <img src="https://img.shields.io/badge/Portfolio-301934?style=square&logo=portfolio" alt="Portfolio" style="margin: 0 30px;" />
   </a>
 </p>
 
