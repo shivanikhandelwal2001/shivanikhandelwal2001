@@ -8,7 +8,7 @@
 
 - 🔭 I am currently working on **Smart Heating and Cooling Systems Controller** using **Reinforcement Learning** to reduce energy consumption and cost.
 
-- 📝 I enjoy creating and sharing content on technical topics, personal experiences, and career journeys. Check out my [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/shivanikhandelwal2001) [![YouTube](https://img.shields.io/badge/YouTube-red?style=flat-square&logo=youtube)](https://www.youtube.com/@techshivanik)
+- 📝 I enjoy creating and sharing content on technical topics, personal experiences, and career journeys. Check out my [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=square&logo=linkedin)](https://www.linkedin.com/in/shivanikhandelwal2001) [![YouTube](https://img.shields.io/badge/YouTube-red?style=square&logo=youtube)](https://www.youtube.com/@techshivanik)
 
 - 📅 I am open to collaborating and discussing various topics, including **Python**, **Data Science**, **Machine Learning**, and **Deep Learning** [Book a Call](https://techshivanik.setmore.com/shivanikhandelwal)
 
@@ -20,22 +20,22 @@
 <p align="left">
   <!-- LinkedIn -->
   <a href="https://linkedin.com/in/shivanikhandelwal2001" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=square&logo=linkedin" alt="LinkedIn" />
   </a>
 
   <!-- YouTube -->
   <a href="https://www.youtube.com/c/@techshivanik" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/YouTube-red?style=flat-square&logo=youtube" alt="YouTube" />
+    <img align="center" src="https://img.shields.io/badge/YouTube-red?style=square&logo=youtube" alt="YouTube" />
   </a>
 
   <!-- Instagram -->
   <a href="https://instagram.com/techshivanik" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/Instagram-purple?style=flat-square&logo=instagram" alt="Instagram" />
+    <img align="center" src="https://img.shields.io/badge/Instagram-purple?style=square&logo=instagram" alt="Instagram" />
   </a>
 
   <!-- Portfolio -->
   <a href="https://shivani-khandelwal.com" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/Portfolio-black?style=flat-square&logo=portfolio" alt="Portfolio" />
+    <img align="center" src="https://img.shields.io/badge/Portfolio-301934?style=square&logo=portfolio" alt="Portfolio" />
   </a>
 </p>
 
