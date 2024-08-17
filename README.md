@@ -32,11 +32,8 @@
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-
-<p align="left">
-  <!-- Programming Languages -->
-  <strong>Programming Languages:</strong><br />
+<h3 align="left">Programming Languages:</h3>
+<p align="center">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="margin-right: 10px;" />
   </a>
@@ -48,9 +45,8 @@
   </a>
 </p>
 
-<p align="left">
-  <!-- Data Science and Machine Learning -->
-  <strong>Data Science & Machine Learning:</strong><br />
+<h3 align="left">Data Science & Machine Learning:</h3>
+<p align="center">
   <a href="https://numpy.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40" style="margin-right: 10px;" />
   </a>
@@ -74,9 +70,8 @@
   </a>
 </p>
 
-<p align="left">
-  <!-- Development and Tools -->
-  <strong>Development & Tools:</strong><br />
+<h3 align="left">Development & Tools:</h3>
+<p>
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40" style="margin-right: 10px;" />
   </a>
