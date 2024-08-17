@@ -71,7 +71,7 @@
 </p>
 
 <h3 align="left">Development & Tools:</h3>
-<p>
+<p align="center">
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40" style="margin-right: 10px;" />
   </a>
