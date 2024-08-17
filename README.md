@@ -91,5 +91,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=shivani-2001&show_icons=true&locale=en" alt="GitHub Stats" width="400" height="200" style="display: inline-block; vertical-align: top;" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivani-2001&" alt="GitHub Streak" width="400" height="300" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivani-2001&" alt="GitHub Streak" width="300" height="300" />
 </p>
