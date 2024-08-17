@@ -19,17 +19,17 @@
 <h3 align="left">Connect with me:</h3>
 <p align="center">
   <!-- LinkedIn -->
-  <a href="https://linkedin.com/in/shivanikhandelwal2001" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=square&logo=linkedin" alt="LinkedIn" style="margin: 0 10px;" />
+  <a href="https://linkedin.com/in/shivanikhandelwal2001">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=square&logo=linkedin" alt="LinkedIn" style="margin: 0 30px;" />
   </a>
 
   <!-- YouTube -->
-  <a href="https://www.youtube.com/c/@techshivanik" target="_blank">
+  <a href="https://www.youtube.com/c/@techshivanik">
     <img src="https://img.shields.io/badge/YouTube-red?style=square&logo=youtube" alt="YouTube" style="margin: 0 10px;" />
   </a>
 
   <!-- Instagram -->
-  <a href="https://instagram.com/techshivanik" target="_blank">
+  <a href="https://instagram.com/techshivanik">
     <img src="https://img.shields.io/badge/Instagram-purple?style=square&logo=instagram" alt="Instagram" style="margin: 0 10px;" />
   </a>
 
