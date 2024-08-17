@@ -20,7 +20,7 @@
 <p align="center">
   <!-- LinkedIn -->
   <a href="https://linkedin.com/in/shivanikhandelwal2001">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=square&logo=linkedin" alt="LinkedIn" style="margin: 0 30px;" />
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=square&logo=linkedin" alt="LinkedIn" style="margin: 0 60px;" />
   </a>
 
   <!-- YouTube -->
