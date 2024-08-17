@@ -20,22 +20,22 @@
 <p align="left">
   <!-- LinkedIn -->
   <a href="https://linkedin.com/in/shivanikhandelwal2001" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn"/>
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
   </a>
 
   <!-- YouTube -->
   <a href="https://www.youtube.com/c/@techshivanik" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/YouTube-red?style=flat-square&logo=youtube" alt="YouTube" height="30" width="40" />
+    <img align="center" src="https://img.shields.io/badge/YouTube-red?style=flat-square&logo=youtube" alt="YouTube" />
   </a>
 
   <!-- Instagram -->
   <a href="https://instagram.com/techshivanik" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/Instagram-purple?style=flat-square&logo=instagram" alt="Instagram" height="30" width="40" />
+    <img align="center" src="https://img.shields.io/badge/Instagram-purple?style=flat-square&logo=instagram" alt="Instagram" />
   </a>
 
   <!-- Portfolio -->
   <a href="https://shivani-khandelwal.com" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/Portfolio-black?style=flat-square&logo=portfolio" alt="Portfolio" height="30" width="40" />
+    <img align="center" src="https://img.shields.io/badge/Portfolio-black?style=flat-square&logo=portfolio" alt="Portfolio" />
   </a>
 </p>
 
