@@ -17,7 +17,7 @@
 - 📄 To know more about my experiences and skills, view my [Resume](https://drive.google.com/file/d/19r39ySYHvMM5XOFnnNKfBmk09wgXW_jL/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
   <!-- LinkedIn -->
   <a href="https://linkedin.com/in/shivanikhandelwal2001" target="_blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=square&logo=linkedin" alt="LinkedIn" />
