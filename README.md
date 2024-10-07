@@ -14,7 +14,7 @@
 
 - 📫 Feel free to reach out via email at **shivanikhandelwal487@gmail.com**
 
-- 📄 To know more about my experiences and skills, view my [Resume](https://drive.google.com/file/d/19r39ySYHvMM5XOFnnNKfBmk09wgXW_jL/view?usp=drive_link)
+- 📄 To know more about my experiences and skills, view my [Resume](https://drive.google.com/file/d/16ZaB8XI7Y4iBCzszNsf60hCAi2KtpJiT/view?usp=sharing)
 
 <h3 align="left">Connect with me here:</h3>
 <p align="center">
