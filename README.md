@@ -1,20 +1,26 @@
 <h1 align="center">Hi 👋, I'm Shivani Khandelwal</h1>
 
-<h3 align="center">A passionate Data Scientist with a love for uncovering hidden insights in data and transforming them into actionable strategies with my Industry and Research Experience.</h3>
+<h3 align="center">A Robotics Software Engineer and AI Researcher passionate about solving real-world problems using AI, ML, and Robotics.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivani-2001&label=Profile%20views&color=0e75b6&style=flat" alt="shivani-2001" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivanikhandelwal2001&label=Profile%20views&color=0e75b6&style=flat" alt="shivanikhandelwal2001" /> </p>
 
-<h3>Here is about me.</h3>
+<h3>🧠 A little about me:</h3>
 
-- 🔭 I am currently working on **Smart Heating and Cooling Systems Controller** using **Reinforcement Learning** to reduce energy consumption and cost.
+- 🤖 Currently working as a **Robotics Software Engineer** in the **Autonomous Driving** space, working on **Path Planning**, **Perception**, **Reinforcement Learning**, and **Vision-Language Models**.
 
-- 📝 I enjoy creating and sharing content on technical topics, personal experiences, and career journeys. Check out my [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=square&logo=linkedin)](https://www.linkedin.com/in/shivanikhandelwal2001) [![YouTube](https://img.shields.io/badge/YouTube-red?style=square&logo=youtube)](https://www.youtube.com/@techshivanik)
+- 🎓 Completed my **Master’s by Research in Artificial Intelligence & Sustainable Energy** at **Coventry University, UK**, funded by the prestigious **British Council Women in STEM Scholarship** 🇬🇧
 
-- 📅 I am open to collaborating and discussing various topics, including **Python**, **Data Science**, **Machine Learning**, and **Deep Learning** [Book a Call](https://techshivanik.setmore.com/shivanikhandelwal)
+- 🌐 I have collaborated with international clients on AI/ML projects and mentored students & professionals transitioning into tech.
 
-- 📫 Feel free to reach out via email at **shivanikhandelwal487@gmail.com**
+- ✍🏼 I create content about AI, research, career tips, and personal learnings.
 
-- 📄 To know more about my experiences and skills, view my [Resume](https://drive.google.com/file/d/16ZaB8XI7Y4iBCzszNsf60hCAi2KtpJiT/view?usp=sharing)
+- 📅 I am open to collaborating and discussing various topics, including **Data Science**, **Machine Learning**, **Computer Vision**, and **Robotics** [Book a Call](https://techshivanik.setmore.com/shivanikhandelwal)
+
+- 📫 Email me: **shivanikhandelwal487@gmail.com**
+
+- 📄 View my updated [Resume](https://drive.google.com/file/d/16ZaB8XI7Y4iBCzszNsf60hCAi2KtpJiT/view?usp=sharing)
+
+<br>
 
 <h3 align="left">Connect with me here:</h3>
 <p align="center">
@@ -32,10 +38,15 @@
   </a>
 </p>
 
+<br>
+
 <h3 align="left">Programming Languages:</h3>
 <p align="center">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="margin-right: 10px;" />
+  </a>
+  <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="40" />
   </a>
   <a href="https://www.sql.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="sql" width="40" height="40" style="margin-right: 10px;" />
@@ -45,7 +56,9 @@
   </a>
 </p>
 
-<h3 align="left">Data Science & Machine Learning:</h3>
+<br>
+
+<h3 align="left">Data Science & ML Stack:</h3>
 <p align="center">
   <a href="https://numpy.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40" style="margin-right: 10px;" />
@@ -70,10 +83,21 @@
   </a>
 </p>
 
-<h3 align="left">Development & Tools:</h3>
+<br>
+
+<h3 align="left">Robotics & Development Tools:</h3>
 <p align="center">
+  <a href="https://www.ros.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ros/ros-original.svg" alt="ros" width="40" height="40" style="margin-right: 10px;" />
+  </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" style="margin-right: 10px;" />
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40" style="margin-right: 10px;" />
+  </a>
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40" style="margin-right: 10px;" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40" style="margin-right: 10px;" />
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" style="margin-right: 10px;" />
@@ -81,15 +105,21 @@
   <a href="https://opencv.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40" style="margin-right: 10px;" />
   </a>
+  <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="jupyter" width="40" height="40" style="margin-right: 10px;" />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40" style="margin-right: 10px;" />
+  </a>
 </p>
 
 <br>
 
 <h3 align="left">📊 GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shivani-2001&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="300" height="200" style="display: inline-block; vertical-align: top; margin-right: 20px;" />
-  <img src="https://github-readme-stats.vercel.app/api?username=shivani-2001&show_icons=true&locale=en" alt="GitHub Stats" width="400" height="200" style="display: inline-block; vertical-align: top;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shivanikhandelwal2001&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="300" height="200" style="display: inline-block; vertical-align: top; margin-right: 20px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shivanikhandelwal2001&show_icons=true&locale=en" alt="GitHub Stats" width="400" height="200" style="display: inline-block; vertical-align: top;" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivani-2001&" alt="GitHub Streak" width="500" height="200" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivanikhandelwal2001&" alt="GitHub Streak" width="500" height="200" />
 </p>
