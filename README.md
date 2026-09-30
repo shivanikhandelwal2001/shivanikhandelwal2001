@@ -18,7 +18,7 @@
 
 - 📫 Email me: **shivanikhandelwal487@gmail.com**
 
-- 📄 View my updated [Resume](https://drive.google.com/file/d/16ZaB8XI7Y4iBCzszNsf60hCAi2KtpJiT/view?usp=sharing)
+- 📄 View my updated [Resume](https://drive.google.com/file/d/1jpQeLoY0PncyI2qtlohjLA9853ZiU61g/view?usp=sharing)
 
 <br>
 
