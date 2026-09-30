@@ -16,7 +16,7 @@
 
 - 📅 I am open to collaborating and discussing various topics, including **Data Science**, **Machine Learning**, **Computer Vision**, and **Robotics** [Book a Call](https://techshivanik.setmore.com/shivanikhandelwal)
 
-- 📫 Email me: **shivanikhandelwal487@gmail.com**
+- 📫 Email me: **techshivanik@gmail.com**
 
 - 📄 View my updated [Resume](https://drive.google.com/file/d/1jpQeLoY0PncyI2qtlohjLA9853ZiU61g/view?usp=sharing)
 
